@@ -59,18 +59,15 @@
 
 ### 📌 Proyek Unggulan
 
-- **Portfolio Website** — Website portfolio pribadi dibangun ulang dari vanilla HTML/CSS/JS menjadi Next.js 15 + React 19 + TypeScript + Tailwind CSS v4, lengkap dengan animasi Framer Motion dan komponen shadcn/ui
-- **Rekhatama Scheduling App** — Aplikasi manajemen jadwal kelas dibangun selama magang di Rekhatama Pratama, memakai Laravel 10 dan Vue.js
-- **Roblox Hangout Map** — Peta hangout Roblox dengan sistem interaksi antar pemain lewat multi-script
+- **Portfolio Website**: Website portfolio pribadi dibangun ulang dari vanilla HTML/CSS/JS menjadi Next.js 15 + React 19 + TypeScript + Tailwind CSS v4, lengkap dengan animasi Framer Motion dan komponen shadcn/ui
+- **Rekhatama Scheduling App**: Aplikasi manajemen jadwal kelas dibangun selama magang di Rekhatama Pratama, memakai Laravel 10 dan Vue.js
+- **Roblox Hangout Map**: map hangout Roblox dengan sistem interaksi antar pemain lewat multi-script
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adil-Sky6&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Sky6&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-Sky6&theme=tokyonight&hide_border=true" />
@@ -84,7 +81,7 @@
   <a href="https://portofolio-adil-satria-ihsani.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-F77331?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/adil-satria-ihsani-98907a363/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
